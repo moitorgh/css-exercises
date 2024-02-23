@@ -1,8 +1,11 @@
 .container {
+  align-items: center;
   background: dodgerblue;
   border: 4px solid midnightblue;
-  width: 400px;
+  display: flex;
   height: 300px;
+  justify-content: center;
+  width: 400px;
 }
 
 .box {
